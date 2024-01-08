@@ -23,6 +23,7 @@ def huffman_encoding_wrapper(executor, symbols):
 
 
 if __name__ == '__main__':
+    print("This is awesome!!")
     exit(
         generic_test.generic_test_main('huffman_coding.py',
                                        'huffman_coding.tsv',
